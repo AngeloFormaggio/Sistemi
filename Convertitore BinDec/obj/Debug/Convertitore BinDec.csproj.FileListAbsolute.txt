@@ -1,0 +1,8 @@
+E:\Scuola\4\Sistemi\C#\Convertitore BinDec\obj\Debug\Convertitore BinDec.csproj.AssemblyReference.cache
+E:\Scuola\4\Sistemi\C#\Convertitore BinDec\obj\Debug\Convertitore BinDec.csproj.SuggestedBindingRedirects.cache
+E:\Scuola\4\Sistemi\C#\Convertitore BinDec\obj\Debug\Convertitore BinDec.csproj.CoreCompileInputs.cache
+E:\Scuola\4\Sistemi\C#\Convertitore BinDec\bin\Debug\Convertitore BinDec.exe.config
+E:\Scuola\4\Sistemi\C#\Convertitore BinDec\bin\Debug\Convertitore BinDec.exe
+E:\Scuola\4\Sistemi\C#\Convertitore BinDec\bin\Debug\Convertitore BinDec.pdb
+E:\Scuola\4\Sistemi\C#\Convertitore BinDec\obj\Debug\Convertitore BinDec.exe
+E:\Scuola\4\Sistemi\C#\Convertitore BinDec\obj\Debug\Convertitore BinDec.pdb
